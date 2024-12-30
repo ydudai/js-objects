@@ -23,3 +23,4 @@ function createParagraph(firastName, lastName) {
 }
 
 createParagraph("Yossi", "Dudai");
+let currency = document.getElementById('currency').value;
